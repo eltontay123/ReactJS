@@ -1,0 +1,16 @@
+nav {
+    background: #F55A5A;
+    height: 55px;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+.logo {
+    width: 24px;
+}
+.title {
+    color: white;
+    margin-left: 7px;
+}
